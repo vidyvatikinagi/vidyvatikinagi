@@ -6,12 +6,12 @@ About Me
  Practicing by building simple projects
  Exploring GitHub and GitHub Pages
 
- Tools & Technologies
+Tools & Technologies
 - HTML5
 - Visual Studio Code
 - GitHub
 
-  Currently Learning
+Currently Learning
 - HTML tags and elements
 - Page structure and layout
 - Linking multiple pages
