@@ -1,11 +1,7 @@
  Hi, I'm Vidyavati 👋
  
-About Me
-- Aspiring software developer with an interest in web and programming technologies
-- Currently building a strong foundation in both front-end and core programming concepts
-- Passionate about learning new tools and improving logical and problem-solving skills
-- Actively practicing through hands-on exercises and small projects
-- Familiar with version control and basic collaborative development workflows
+I am an aspiring software developer currently building a strong foundation in web development and programming. I am learning HTML to create clean and well-structured web pages and Java to understand core programming and object-oriented concepts. I actively practice by working on small projects and coding exercises, which helps me strengthen my problem-solving and logical thinking skills. I am also familiar with using GitHub for version control and GitHub Pages for hosting static websites. I am motivated to continuously learn new technologies and improve my technical skills.
+
 
 Skills & Tools
 - HTML5
