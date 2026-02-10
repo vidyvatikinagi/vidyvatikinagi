@@ -10,9 +10,8 @@ About Me
 - HTML5
 - Visual Studio Code
 - GitHub
--
- 
- Currently Learning
+
+  Currently Learning
 - HTML tags and elements
 - Page structure and layout
 - Linking multiple pages
@@ -22,7 +21,8 @@ About Me
 - Improve HTML skills
 - Learn CSS next
 - Learn JavaScript next
- Build more real-world projects
+
+
 
  
 
