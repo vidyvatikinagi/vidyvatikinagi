@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi there👋, I am Vidyavati
+ 
+I am currently learning HTML and building a strong foundation in web development. I have been practicing core HTML concepts such as document structure, headings, paragraphs, lists, links, tables, and basic forms. Through simple projects, I am gaining an understanding of how web pages are created and organized. I am also learning how to host static websites using GitHub Pages and manage code using GitHub. This project reflects my learning progress and interest in front-end development.
 
-<!--
-**vidyvatikinagi/vidyvatikinagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Overview
 
-Here are some ideas to get you started:
+The purpose of this project is to showcase fundamental HTML concepts such as:
+Proper HTML document structure
+Use of headings and paragraphs
+Hyperlinks and navigation
+Lists and text formatting
+Clean and readable markup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This project does not use CSS or JavaScript, focusing entirely on HTML
+
+
+
+
